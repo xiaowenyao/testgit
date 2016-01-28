@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="78603" started-at="2016-01-25T03:27:15Z" finished-at="2016-01-25T03:28:34Z">
+    <groups>
+    </groups>
+    <test name="homepage" duration-ms="78603" started-at="2016-01-25T03:27:15Z" finished-at="2016-01-25T03:28:34Z">
+      <class name="com.tts.homepage.Homepage2">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tts.homepage.Homepage2@47978f4f]" name="setUp" is-config="true" duration-ms="9763" started-at="2016-01-25T11:27:34Z" finished-at="2016-01-25T11:27:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="homepage2()[pri:0, instance:com.tts.homepage.Homepage2@47978f4f]" name="homepage2" duration-ms="9562" started-at="2016-01-25T11:27:44Z" finished-at="2016-01-25T11:27:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage2 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tts.homepage.Homepage2@47978f4f]" name="tearDown" is-config="true" duration-ms="1166" started-at="2016-01-25T11:27:54Z" finished-at="2016-01-25T11:27:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tts.homepage.Homepage2 -->
+      <class name="com.tts.homepage.Homepage3">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tts.homepage.Homepage3@3ca83695]" name="setUp" is-config="true" duration-ms="9618" started-at="2016-01-25T11:27:55Z" finished-at="2016-01-25T11:28:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="homepage3()[pri:0, instance:com.tts.homepage.Homepage3@3ca83695]" name="homepage3" duration-ms="28088" started-at="2016-01-25T11:28:04Z" finished-at="2016-01-25T11:28:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage3 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tts.homepage.Homepage3@3ca83695]" name="tearDown" is-config="true" duration-ms="1254" started-at="2016-01-25T11:28:32Z" finished-at="2016-01-25T11:28:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tts.homepage.Homepage3 -->
+      <class name="com.tts.homepage.Homepage1">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tts.homepage.Homepage1@588c1ac9]" name="setUp" is-config="true" duration-ms="9771" started-at="2016-01-25T11:27:15Z" finished-at="2016-01-25T11:27:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="homepage1()[pri:0, instance:com.tts.homepage.Homepage1@588c1ac9]" name="homepage1" duration-ms="8082" started-at="2016-01-25T11:27:25Z" finished-at="2016-01-25T11:27:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tts.homepage.Homepage1@588c1ac9]" name="tearDown" is-config="true" duration-ms="1281" started-at="2016-01-25T11:27:33Z" finished-at="2016-01-25T11:27:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tts.homepage.Homepage1 -->
+    </test> <!-- homepage -->
+  </suite> <!-- Suite -->
+</testng-results>

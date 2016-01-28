@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<suite name="Suite" annotations="JDK" thread-count="1" verbose="1">
+    <test name="homepage" >
+        <classes>
+            <class name="com.tts.homepage.Homepage1" />
+            <class name="com.tts.homepage.Homepage2" />
+            <class name="com.tts.homepage.Homepage3" />
+        </classes>
+    </test> 
+    
+</suite>
